@@ -1,0 +1,2 @@
+import{A as t}from"./index.6fd3b3b9.js";import"./index.b1f25152.js";import"./iframe.9a08ed34.js";import"./index.fc5742b8.js";import"./jsx-runtime.96ee22d7.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/fabiomoura-m.png",alt:"Fabio Moura"},argTypes:{src:{control:{type:"text"}}}},p={},c={parameters:{backgrounds:{default:"light"}},args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.c3d7ff28.js.map

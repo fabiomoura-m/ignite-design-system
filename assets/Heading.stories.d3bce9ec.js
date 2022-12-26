@@ -1,0 +1,2 @@
+import{H as o}from"./index.6fd3b3b9.js";import"./index.b1f25152.js";import"./iframe.9a08ed34.js";import"./index.fc5742b8.js";import"./jsx-runtime.96ee22d7.js";const a={title:"Typography/Heading",component:o,args:{children:"Custom title",size:"md"},argTypes:{size:{options:["sm","md","lg","2xl","4xl","5xl","6xl"],control:{type:"inline-radio"}}}},n={},m={args:{children:"H1 Heading",as:"h1"}},p=["Primary","CustomTag"];export{m as CustomTag,n as Primary,p as __namedExportsOrder,a as default};
+//# sourceMappingURL=Heading.stories.d3bce9ec.js.map
